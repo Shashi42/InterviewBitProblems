@@ -1,0 +1,1 @@
+execute installdep.py with a dependencies json file as command line argument.
